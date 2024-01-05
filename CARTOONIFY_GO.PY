@@ -1,5 +1,5 @@
 
-import tkinter as tk  # graphical user interface toolkit GUI
+import tkinter as tk  # graphical user interface toolkit known as GUI
 from tkinter import *
 import easygui  # to open the filebox
 import cv2  # for image processing
